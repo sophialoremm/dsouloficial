@@ -1,17 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Denilson!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Denilson!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&weight=200&size=36&pause=2000&color=64102B&background=ADCDAD00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=436&height=51&separator=%3C&lines=+hello+my+name+is+sophia+%3C+in+from+brazil++;))](https://git.io/typing-svg)
 
 
 
-- In 2020, I started my systems analysis and development course. Since then, I dedicated myself to the world of programming, with the aim of improving my acquired skills and contributing to the development of projects that make a difference in current global technology. My professional goals are to work as a web and mobile developer.
+-Hi, my name is Sophia I was born on 04/02/2008 I still don't know a lot, but I want to discover more things I'm not from this field, but I want to learn more ...
 ---
 
 - 💻 I'm Developer
-- 💪 I already counted on: `.CSS3` | `.HTML5` | `.React` | `.javaScript` | `.FIGMA`| `.UX`;
+- 💪 I already counted on: `.CSS3` | `.HTML5` | 
 - ❤ I am passionate about developing projects
 - 🔭 an eternal apprentice
 - ✋ I accept improvement sugetões for my codes
@@ -82,12 +80,12 @@
 ---
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dsouloficial&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dsouloficial&bg_color=#8BD9F0&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
   </a>
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dsouloficial}/count.svg" /></p> 
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sophialoremm}/count.svg" /></p> 
   <br>
 </div>
 
