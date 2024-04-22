@@ -11,7 +11,7 @@
 - 💻 I'm Developer
 - 💪 I already counted on: `.CSS3` | `.HTML5` | 
 - 🔭 an eternal apprentice
--  😁
+-  😁 How to reach me instagram: @_eaesophiaae
 
 ---- 
 
